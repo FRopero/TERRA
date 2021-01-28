@@ -3,7 +3,7 @@ The cooperaTive ExploRation Routing Algorithm (TERRA)  has been designed to solv
 
 ![Algorithm](https://github.com/FRopero/TERRA/blob/main/problem.PNG)
 
-## How to install
+## How to execute
 
 1) Clone the github repository on your system:
 
